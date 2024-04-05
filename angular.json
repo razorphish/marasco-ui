@@ -26,6 +26,7 @@
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": [
+              "src/assets/img/logo/Web16x16.ico",
               "src/assets"
             ],
             "styles": [
