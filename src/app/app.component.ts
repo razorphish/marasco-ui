@@ -10,5 +10,5 @@ import { MainLayoutComponent } from './components/layout';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'marasco-ui';
+  title = 'Maras, co';
 }

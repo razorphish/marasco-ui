@@ -11,7 +11,7 @@ describe('NewsComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ NewsComponent ]
+      imports: [ NewsComponent ]
     })
     .compileComponents();
   }));

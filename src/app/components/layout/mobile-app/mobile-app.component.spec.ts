@@ -11,7 +11,7 @@ describe('MobileAppComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ MobileAppComponent ]
+      imports: [ MobileAppComponent ]
     })
     .compileComponents();
   }));

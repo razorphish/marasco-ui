@@ -11,7 +11,7 @@ describe('FeaturedProjectsComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ FeaturedProjectsComponent ]
+      imports: [ FeaturedProjectsComponent ]
     })
     .compileComponents();
   }));
