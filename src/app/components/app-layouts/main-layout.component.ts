@@ -25,12 +25,12 @@ import { FooterComponent } from '../footer/footer.component';
     ServicesComponent,
     FeaturedProjectsComponent,
     TeamComponent,
-    PortfolioComponent, 
+    PortfolioComponent,
     CallToAction2Component,
     ClientsComponent,
     ContactUsComponent,
-    FooterComponent
-  ]
+    FooterComponent,
+  ],
 })
 export class MainLayoutComponent implements OnInit {
   constructor() {}
